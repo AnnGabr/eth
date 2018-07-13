@@ -1,21 +1,19 @@
-.layout {
-  height: 99%;
-}
-
-.has-scroll {
-  overflow-y: auto;
-}
-
-.no-scroll {
-  overflow-y: hidden;
-}
-
-.is-full-width {
+body, html {
+  height: 100%;
   width: 100%;
 }
 
-.no-bg-color {
-  background-color: initial;
+body {
+  background: #ECF0F3;
 }
+
+.up-color {
+  color: #0FEB6F;
+}
+
+.down-color {
+  color: #FC4A02;
+}
+
 
 
