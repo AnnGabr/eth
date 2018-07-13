@@ -1,4 +1,4 @@
 ## eth
-# Usage
+Usage
     npm i 
     npm start
