@@ -1,5 +1,6 @@
 # eth
 
-$$ How to
-npm i
-npm start
+# Usage 
+
+  npm i 
+  npm start 
