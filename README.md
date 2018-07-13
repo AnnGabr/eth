@@ -1,5 +1,5 @@
 # eth
 
-## How to
+$$ How to
 npm i
 npm start
